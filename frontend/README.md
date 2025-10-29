@@ -30,16 +30,16 @@ Real-time room-based chat application built with **React**, **Node.js**, and **W
 ### 🧍 Join Screen
 Before and after joining a room
 
-![Join Screen 1](./public/screenshots/join-screen-1.png)
-![Join Screen 2](./public/screenshots/join-screen-2.png)
+![Join Screen 1](./public/join-screen-1.png)
+![Join Screen 2](./public/join-screen-2.png)
 
 ### 💬 Chat Interface
 Real-time chat between users in a room
 
-![Chat Interface 1](./public/screenshots/chat-interface-1.png)
+![Chat Interface 1](./public/chat-interface-1.png)
 > Real-time messages displayed in the selected chat room.
 
-![Chat Interface 2](./public/screenshots/chat-interface-2.png)
+![Chat Interface 2](./public/chat-interface-2.png)
 > User sending a new message — instantly broadcasted to all participants.
 
 ---

@@ -53,7 +53,7 @@ function App() {
       })
     );
 
-    inputRef.current.value = "";
+    inputRef.current?.value || "";
   };
 
   // --- UI ---
