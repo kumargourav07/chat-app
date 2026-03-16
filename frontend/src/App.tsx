@@ -20,7 +20,7 @@ function App() {
   }, [messages]);
 
   const joinRoom = (room: string) => {
-    const ws = new WebSocket("ws://localhost:8080");
+    const ws = new WebSocket("wss://chat-app-mwbt.onrender.com");
 
     ws.onopen = () => {
       ws.send(
